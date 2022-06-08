@@ -1,5 +1,7 @@
 ### Olá! Seja bem-vindo, eu sou o Lucas Hemnauel 🤙
 
+<img src="https://images2.imgbox.com/3b/f1/hKGoPxQP_o.png" alt="image host"/>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-hemanuel-gomes-de-oliveira-29024a171/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucashemanuel890@gmail.com?)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.gomes2/)
