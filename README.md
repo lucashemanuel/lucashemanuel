@@ -2,11 +2,7 @@
 
 <img src="https://images2.imgbox.com/3b/f1/hKGoPxQP_o.png" alt="image host"/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-hemanuel-gomes-de-oliveira-29024a171/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucashemanuel890@gmail.com?)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.gomes2/)
-
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashemanuel&show_icons=true&theme=dracula)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashemanuel&show_icons=true&theme=dracula) </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashemanuel&layout=compact&theme=dracula)
 
 ## Tecnologias que estou aprendendo e me aprimorando:
@@ -25,3 +21,11 @@
 ## Obervações
 - Sempre em busca de conhecimento e evolução 
 - Estou procurando por emprego
+
+<div align="center">
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+</h3> 
+<p align="center">
+    <a href="https://www.linkedin.com/in/lucas-hemanuel" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="mailto:lucashemanuel890@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+</p>  
