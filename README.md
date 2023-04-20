@@ -1,11 +1,13 @@
-### Olá! Seja bem-vindo, eu sou o Lucas Hemnauel 🤙
+### Hi! You're welcome, i am Lucas Hemnauel 🤙
 
 <img src="https://images2.imgbox.com/3b/f1/hKGoPxQP_o.png" alt="image host"/>
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashemanuel&show_icons=true&theme=dracula) </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashemanuel&layout=compact&theme=dracula)
+<img alt="GitHub Trends Stats" src="https://api.githubtrends.io/user/svg/lucashemanuel/langs?time_range=one_year&theme=dark"/>
 
-## Tecnologias que estou aprendendo e me aprimorando:
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashemanuel&show_icons=true&theme=apprentice) </br>
+
+
+## Technologies that i learn and improving my knowledge:
 
 <div style="display: inline-block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -18,9 +20,9 @@
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-## Obervações
-- Sempre em busca de conhecimento e evolução 
-- Estou procurando por emprego
+## Observations
+- Always learning new concepts 
+- Always improving my knowledge
 
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
