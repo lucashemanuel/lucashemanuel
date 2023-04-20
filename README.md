@@ -1,10 +1,14 @@
 ### Hi! You're welcome, i am Lucas Hemnauel 🤙
 
-<img src="https://images2.imgbox.com/3b/f1/hKGoPxQP_o.png" alt="image host"/>
+<img src="https://images2.imgbox.com/3b/f1/hKGoPxQP_o.png" alt="image host"/> </br>
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucashemanuel&theme=dark) 
 
-<img alt="GitHub Trends Stats" src="https://api.githubtrends.io/user/svg/lucashemanuel/langs?time_range=one_year&theme=dark"/>
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashemanuel&show_icons=true&theme=apprentice) </br>
+![GitHub Trends Stats](https://api.githubtrends.io/user/svg/lucashemanuel/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark)
+
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashemanuel&show_icons=true&theme=dark) </br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucashemanuel&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucashemanuel&theme=dark) 
 
 
 ## Technologies that i learn and improving my knowledge:
