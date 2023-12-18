@@ -35,3 +35,14 @@
     <a href="https://www.linkedin.com/in/lucas-hemanuel" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
     <a href="mailto:lucashemanuel890@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p>  
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/lucashemanuel/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
